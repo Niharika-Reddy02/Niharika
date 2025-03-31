@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name] – Aspiring Data Scientist
+# 👋 Hello! I'm [Niharika Reddy] – Aspiring Data Scientist
 
 I’m a ****Data Analyst **** with over two years of experience in Business Intelligence, Data Analysis, and Visualization. Proficient in SQL, Python, and Tableau, with expertise in Pharmaceutical Sales and Inventory Analytics. Skilled in writing complex SQL queries, data cleansing, ETL processes, and developing interactive dashboards to uncover key business insights. Passionate about leveraging data-driven solutions to improve efficiency, automation, and strategic decision-making.
 
