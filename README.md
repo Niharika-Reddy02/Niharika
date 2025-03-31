@@ -1,9 +1,6 @@
 # 👋 Hello! I'm [Your Name] – Aspiring Data Scientist
 
-I’m a **Data Analyst** with 2+ years of hands-on experience and a passion for **Machine Learning**, **Deep Learning**, and **Generative AI**. I’m currently looking for **entry-level Data Scientist roles** where I can leverage my analytical skills and the knowledge I’ve gained from training in advanced machine learning techniques.
-Experienced Data Analyst | SQL | Python | Tableau | Business Intelligence
-
-Results-driven Data Analyst with over two years of experience in Business Intelligence, Data Analysis, and Visualization. Proficient in SQL, Python, and Tableau, with expertise in Pharmaceutical Sales and Inventory Analytics. Skilled in writing complex SQL queries, data cleansing, ETL processes, and developing interactive dashboards to uncover key business insights. Passionate about leveraging data-driven solutions to improve efficiency, automation, and strategic decision-making.
+I’m a ****Data Analyst **** with over two years of experience in Business Intelligence, Data Analysis, and Visualization. Proficient in SQL, Python, and Tableau, with expertise in Pharmaceutical Sales and Inventory Analytics. Skilled in writing complex SQL queries, data cleansing, ETL processes, and developing interactive dashboards to uncover key business insights. Passionate about leveraging data-driven solutions to improve efficiency, automation, and strategic decision-making.
 
 ✔ Expertise in SQL (Joins, CTEs, Subqueries, Stored Procedures)
 ✔ Data Visualization using Tableau (Dashboards, Trend Analysis)
